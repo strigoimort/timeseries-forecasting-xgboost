@@ -18,7 +18,7 @@ Jupyter Notebooks scripts detail the entire process, including data exploration,
 
 ## Results
 
-![Plot Model](./output.png)
+![Plot Model](./output.png) 
 
 **Highest RMSE**  
 The following timestamps had the highest RMSE values, indicating significant deviations between predicted and actual values:
