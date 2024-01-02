@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository is focused on time-series forecasting using data from Hourly Energy Consumption by Rob Mulla on Kaggle. The primary goal is to develop and evaluate a time-series forecasting model for predicting energy consumption patterns over time.
+This repository is focused on time-series forecasting using data from Hourly Energy Consumption. The primary goal is to develop and evaluate a time-series forecasting model for predicting energy consumption patterns over time. Understanding these patterns is crucial for efficient resource planning and management.
 
 ## Data
 
