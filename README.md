@@ -1,4 +1,4 @@
-# Timeseries Forecasting using XGBoost
+# Timeseries Forecasting with XGBoost
 
 ## Overview
 
@@ -18,7 +18,8 @@ Jupyter Notebooks scripts detail the entire process, including data exploration,
 
 ## Results
 
-![Plot Model](./output.png) 
+<img src="./dist/output 1.png">
+<img src="./dist/output 2.png">
 
 **Highest RMSE**  
 The following timestamps had the highest RMSE values, indicating significant deviations between predicted and actual values:
